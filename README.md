@@ -6,6 +6,11 @@ A character-based CNN for text classification.
 2. Apply convolutional operation to get sentence embeddings.
 3. Conduct classification according to sentence embeddings.
 
+
+"""
+python charcnn2.py
+"""
+
 ## Required packages:
 * Python 2.7
 * Tensorgraph 
