@@ -7,9 +7,9 @@ A character-based CNN for text classification.
 3. Conduct classification according to sentence embeddings.
 
 
-'''
+```
 python charcnn2.py
-'''
+```
 
 ## Required packages:
 * Python 2.7
